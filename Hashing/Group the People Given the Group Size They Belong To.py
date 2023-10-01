@@ -14,8 +14,8 @@ class Solution:
                 result.append(groups[size])
                 groups[size] = []
 
-        return result
+        return result 
 
 
-sol = Solution()
+sol = Solution() 
 print(sol.groupThePeople([3, 3, 3, 3, 3, 1, 3]))
