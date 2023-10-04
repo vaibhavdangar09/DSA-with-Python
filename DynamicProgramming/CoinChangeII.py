@@ -23,5 +23,5 @@ class Solution:
 
 
 sol = Solution()
-# print(sol.change(,5, [1, 2, 5]))
+# print(sol.change(,5, [1, 2, 5,6]))
 print(sol.change(5, [1, 2, 5]))
