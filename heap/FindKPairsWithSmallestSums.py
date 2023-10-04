@@ -26,8 +26,8 @@ class Solution:
 
 
 solution = Solution()
-nums1 = [1, 7, 11]
-nums2 = [2, 4, 6]
+nums1 = [1, 7, 11,7]
+nums2 = [2, 4, 6,5]
 k = 3
 
 print(solution.kSmallestPairs(nums1, nums2, k))
