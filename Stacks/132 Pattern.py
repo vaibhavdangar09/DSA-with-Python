@@ -18,4 +18,4 @@ class Solution:
 sol = Solution()
 # print(sol.find132pattern([1, 2, 3, 4]))
 
-print(sol.find132pattern([3, 1, 4, 2]))
+print(sol.find132pattern([3, 1, 4, 2,5]))
