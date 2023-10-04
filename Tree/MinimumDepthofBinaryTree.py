@@ -23,5 +23,5 @@ class Solution:
 
 
 sol = Solution()
-root = TreeNode(3, TreeNode(9), TreeNode(20, TreeNode(15), TreeNode(7)))
+root = TreeNode(3, TreeNode(9), TreeNode(20, TreeNode(15), TreeNode(7),TreeNode(6)))
 print(sol.minDepth(root))
