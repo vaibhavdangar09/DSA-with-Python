@@ -33,4 +33,4 @@ class Solution:
 
 
 sol = Solution()
-print(sol.combine(4, 2))
+print(sol.combine(4, 2,3))
