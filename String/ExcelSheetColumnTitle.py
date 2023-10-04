@@ -9,4 +9,4 @@ class Solution:
 
 
 sol = Solution()
-print(sol.convertToTitle(701))
+print(sol.convertToTitle(432))
