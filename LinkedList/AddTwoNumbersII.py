@@ -102,7 +102,7 @@ def create_linked_list(lst):
 sol = Solution()
 # Convert the lists to ListNode instances
 l1 = create_linked_list([7, 2, 4, 3])
-l2 = create_linked_list([5, 6, 4])
+l2 = create_linked_list([5, 6, 4, 6 , 7])
 result = sol.addTwoNumbers(l1, l2)
 
 # Print the result
